@@ -1,6 +1,4 @@
-Here’s a **clean, professional README.md** you can directly use for your project (IEEE / academic-style friendly). You can paste this as-is into a `README.md` file.
 
----
 
 # Household Power Consumption Forecasting Using Time Series and Machine Learning Models
 
